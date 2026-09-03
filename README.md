@@ -58,11 +58,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitraj1236&theme=tokyo-night" alt="Contribution Activity Graph" width="95%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshitraj1236&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-> 💡 *Tip: `count_private=true` only reflects your private-contribution counts correctly when you view your own profile while signed in, or if you enable "Include private contributions" in your GitHub profile settings.*
+> ⚠️ *The stats, top-languages, and activity-graph cards above are rendered live by free, shared `vercel.app` instances (`github-readme-stats`, `github-readme-activity-graph`). Their own maintainers have publicly confirmed these free instances get rate-limited under heavy traffic and can intermittently fail to load — it's not a bug in this file. If a card shows broken, it usually comes back after a refresh or a few minutes.*
+>
+> *For a permanent fix, self-host your own free copy:*
+> 1. *Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (and [activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) if you want that one too).*
+> 2. *Deploy your fork to your own Vercel account (free) — the repo's README has a one-click "Deploy" button.*
+> 3. *Swap `github-readme-stats.vercel.app` / `github-readme-activity-graph.vercel.app` in this file for your own deployment's URL.*
+>
+> *I dropped the GitHub Trophies widget (`github-profile-trophy.vercel.app`) — its maintainer has posted that the service is struggling to stay funded and is the least stable of the four, so it's not worth the extra point of failure. Add it back later if you self-host it too.*
 
 ---
 
@@ -81,8 +84,6 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitraj1236&repo=emotion&theme=tokyonight" />
   </a>
 </p>
-
-> ✏️ *Only 3 repos are pinned right now — add a 4th by copying one of the `<a>` blocks above and swapping in another repo name.*
 
 ---
 
