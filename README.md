@@ -134,15 +134,17 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/harshitraj1236/IIIT_Insider">
-    <img height="150em" src="https://github-readme-stats.shion.dev/api/pin/?username=harshitraj1236&repo=IIIT_Insider&theme=tokyonight" />
-  </a>
-</p>
-<p align="center">
   <a href="https://github.com/harshitraj1236/targeted_tutor">
     <img height="150em" src="https://github-readme-stats.shion.dev/api/pin/?username=harshitraj1236&repo=targeted_tutor&theme=tokyonight" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/harshitraj1236/IIIT_Insider">
+    <img height="150em" src="https://github-readme-stats.shion.dev/api/pin/?username=harshitraj1236&repo=IIIT_Insider&theme=tokyonight" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/harshitraj1236/emotion">
     <img height="150em" src="https://github-readme-stats.shion.dev/api/pin/?username=harshitraj1236&repo=emotion&theme=tokyonight" />
