@@ -26,8 +26,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshitraj1236&limit=5&theme=dark&combine_all_yearly_contributions=true)
+📊 GitHub Analytics
+<p align="center"> <img height="165em" src="https://github-readme-stats.shion.dev/api?username=harshitraj1236&show_icons=true&theme=tokyonight&count_private=false&include_all_commits=false" alt="harshitraj1236's GitHub stats" /> <img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=harshitraj1236&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=harshitraj1236&theme=tokyonight" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitraj1236&theme=tokyo-night" alt="Contribution Activity Graph" width="95%" /> </p> <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=harshitraj1236&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" /> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /> </p>
 
 
 <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitraj1236/harshitraj1236/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitraj1236/harshitraj1236/output/github-contribution-grid-snake.svg" /> <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/harshitraj1236/harshitraj1236/output/github-contribution-grid-snake.svg" /> </picture> </p>
